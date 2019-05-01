@@ -15,7 +15,7 @@ Note: these files may be out of date
 - Forecast NBA spread and create a statistical writeup form the models.
 
 **Question6.R**
-- Date: Spring 2018
+- Spring 2018
 - Analyze the effects of coral bleaching for Reef Check. 
 
 
